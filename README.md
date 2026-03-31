@@ -35,8 +35,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elliodev&show_icons=true&theme=default" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliodev&layout=compact&theme=default" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elliodev&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliodev&layout=compact&theme=default" />
 </p>
 
 ---
