@@ -36,14 +36,6 @@
 ### Tools
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elliodev&show_icons=true&theme=default&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliodev&layout=compact&theme=default&cache_seconds=1800" />
-</p>
 
 ---
 
@@ -55,13 +47,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elliodev&theme=github-light" />
-</p>
-
----
 
 ## 🔗 Connect with me
 
@@ -84,7 +69,6 @@
 
 ## ✨ Goals
 - Build real-world projects  
-- Start freelancing  
 - Improve every day  
 
 ---
