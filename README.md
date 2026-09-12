@@ -5,7 +5,7 @@ I'm Ellio, Web Developer student at Educatel (Titre Pro DWWM), looking for a 4-w
 #### Links & Contact
 
 <a href="https://elliodev.github.io" target="_blank">
-  <img src="🌐_Portfolio-elliodev.github.io-f97316?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-elliodev.github.io-f97316?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
 </a>
 <a href="mailto:ellio.picard@free.fr">
   <img src="https://img.shields.io/badge/Email-ellio.picard%40free.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
