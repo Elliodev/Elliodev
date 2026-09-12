@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ellio, Web Developer student at Educatel (Titre Pro DWWM), looking for a 4-week internship.
+I'm Ellio, Web Developer student at Educatel (Titre Pro DWWM).
 
 #### Links & Contact
 
