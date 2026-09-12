@@ -1,22 +1,40 @@
-# Ellio Picard
+### Hi there 👋
 
-Développeur Web & Web Mobile — En formation Titre Pro DWWM chez Educatel, à la recherche d'un **stage conventionné (4 semaines min.)**.
+I'm Ellio, Web Developer student at Educatel (Titre Pro DWWM), looking for a 4-week internship.
 
-✉️ **Contact** : [ellio.picard@free.fr](mailto:ellio.picard@free.fr)
+#### Contact me
 
----
+<a href="mailto:ellio.picard@free.fr">
+  <img src="https://img.shields.io/badge/Email-ellio.picard%40free.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-### 🛠️ Compétences & Technologies
+#### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
 #### Frontend
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) **Angular (v22)** : Architecture moderne (Standalone Components), gestion d'état réactive avec les Signals, formulaires réactifs et Drag & Drop (CDK).
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) **TypeScript** : Typage statique rigoureux (sans `any`), interfaces, types d'union et programmation asynchrone (`async/await`, Promises).
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript (ES6+)** : Manipulation du DOM, méthodes de tableau fonctionnelles (`map`, `filter`, `reduce`), logique événementielle.
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![HTML5 / CSS3](https://img.shields.io/badge/HTML5%20%2F%20CSS3-1572B6?style=flat&logo=html5&logoColor=white) **HTML5, CSS3 & Tailwind CSS** : Intégration responsive mobile-first, respect des maquettes, animations fluides et accessibilité.
 
-#### Backend & Base de données
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) **PHP 8** : Conception d'APIs REST, architecture modulaire MVC, gestion sécurisée des sessions et requêtes préparées via PDO.
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) **MySQL** : Modélisation relationnelle, contraintes d'intégrité, clés étrangères avec suppression en cascade et requêtes SQL optimisées (`JOIN`).
+<p>
+  <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-#### Outils & Méthodologie
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) **Git & GitHub** : Versioning de projet, commits conventionnels, gestion de dépôts distants et déploiement.
+#### Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+#### Others
+
+<p>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
